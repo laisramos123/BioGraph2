@@ -1,0 +1,12 @@
+<div>
+  <p>Selecione qual animal deseja saber o nível trófico:</p>
+  <div>
+    <label>Animal: </label>
+    <select >
+      <option *ngFor="let animal of animais" value="">{{animal.nome}}</option>
+   </select>
+  </div>
+</div>
+<div class="container">
+  <img src="assets/cadeiaAlimentar.jpeg">
+</div>
