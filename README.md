@@ -1,44 +1,37 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+**BioGraph2** 
 
 Temas:
- - Grafos1
  - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+ - Algoritimo do menor caminho de c
 
-# NomedoProjeto
+# BioGraph2
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Algoritimo de Dijkstra<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 170107574  |  Laís Ramos Barbosa|
+|21/1031833  |  Taynara Cristina Ribeiro Marcellos |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo principal do projeto é representar uma cadeia alimentar utilizando a estrutura de dados Grafo, além disso utilizamos o conceito do Algoritimo de Dijkstra para demonstrar o fluxo energético, iniciando por um nó específico(nó do produto) e terminando no animal que se deseja saber o nível trófico e utilizamos também a técinca para achar o menor caminho com o objetivo de obter o nível trófico do animal selecionado.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: Java, Javascript, Typescript<br>
 **Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Para rodar o projeto é necessário que se tenha instalado na máquina as linguagesn Java SDK17, Angular e um editor de texto da sua escolha.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+1.
+2.
+3.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
 
 
 
