@@ -4,10 +4,28 @@ div {
   font-size: large;
 }
 
+label {
+  margin: 20px;
+}
+
 .container img {
-  margin-left: 10px;
+  margin-left: 200px;
   max-width:450px;
   max-height:400px;
   width: auto;
   height: auto;
+}
+
+button {
+  margin: 20px;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: rgb(121, 72, 167);
+}
+
+p {
+  margin: 20px;
 }
