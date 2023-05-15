@@ -3,6 +3,7 @@
   <div>
     <label>Animal: </label>
     <select >
+      <option value="" disabled selected>Selecione</option>
       <option *ngFor="let animal of animais" value="">{{animal.nome}}</option>
    </select>
   </div>

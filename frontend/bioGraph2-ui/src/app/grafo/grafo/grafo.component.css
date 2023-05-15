@@ -9,7 +9,7 @@ label {
 }
 
 .container img {
-  margin-left: 200px;
+  margin-left: 300px;
   max-width:450px;
   max-height:400px;
   width: auto;
@@ -26,6 +26,19 @@ button {
   background-color: rgb(121, 72, 167);
 }
 
+&:hover{
+  background: #072440;
+}
+
 p {
   margin: 20px;
+}
+
+select {
+  color: black;
+  padding: auto;
+  border-radius: 2px;
+  background-color: rgb(242, 228, 255);
+  border: none;
+  padding: 4px 6px;
 }
