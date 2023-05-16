@@ -18,6 +18,8 @@ public class AnimalNodeController {
 
     @PostMapping
     public AnimalNode createAnimalNode(@RequestBody AnimalNode animalNode) {
+        AnimalNode dijkstra = new AnimalNode();
+        dijkstra.CalculateShortestPath(animalNode);
         return animalNodeService.createAnimalNode(animalNode);
     }
 

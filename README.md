@@ -16,10 +16,12 @@ Temas:
 |21/1031833  |  Taynara Cristina Ribeiro Marcellos |
 
 ## Sobre 
-O objetivo principal do projeto é representar uma cadeia alimentar utilizando a estrutura de dados Grafo, além disso utilizamos o conceito do Algoritimo de Dijkstra para demonstrar o fluxo energético, iniciando por um nó específico(nó do produto) e terminando no animal que se deseja saber o nível trófico e utilizamos também a técinca para achar o menor caminho com o objetivo de obter o nível trófico do animal selecionado.
+O objetivo principal do projeto é representar uma cadeia alimentar utilizando a estrutura de dados Grafo para representar um fluxo energético, aplicando o Algoritimo de Dijkstra para achar o nível trófico de cada ser, iniciando por um nó específico(nó do produto) e termindo no nó do animal desejado.
 
 ## Screenshots
-
+![Image1](./img/img1.jpeg)
+![Image2](./img/img2.jpeg)
+![Image3](./img/img3.jpeg)
 
 ## Instalação 
 **Linguagem**: Java, Javascript, Typescript<br>
