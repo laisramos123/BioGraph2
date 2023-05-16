@@ -2,7 +2,7 @@
 
 Temas:
  - Grafos2
- - Algoritimo do menor caminho de c
+ - -Algoritimo de Dijkstra
 
 # BioGraph2
 
