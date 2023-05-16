@@ -12,7 +12,7 @@ Temas:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 170107574  |  Laís Ramos Barbosa|
+|17/0107574  |  Laís Ramos Barbosa|
 |21/1031833  |  Taynara Cristina Ribeiro Marcellos |
 
 ## Sobre 
