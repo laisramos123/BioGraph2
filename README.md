@@ -27,9 +27,8 @@ O objetivo principal do projeto é representar uma cadeia alimentar utilizando a
 Para rodar o projeto é necessário que se tenha instalado na máquina as linguagesn Java SDK17, Angular e um editor de texto da sua escolha.
 
 ## Uso 
-1.
-2.
-3.
+1. Para rodar o servidor, apenas clique em run que irá rodar a aplicação
+2. Para rodar o front-end, abra na pasta front-end>biograph-ui> e rode o comando ng serve
 
 
 
