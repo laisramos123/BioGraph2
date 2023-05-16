@@ -1,4 +1,6 @@
 package com.example.biograph2.model;
 
-public class AnimalNodeRepository {
+import org.springframework.data.repository.CrudRepository;
+
+public interface AnimalNodeRepository extends CrudRepository<AnimalNode, String> {
 }
