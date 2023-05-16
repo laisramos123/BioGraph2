@@ -2,7 +2,7 @@
 
 Temas:
  - Grafos2
- - -Algoritimo de Dijkstra
+ - Algoritimo de Dijkstra
 
 # BioGraph2
 
