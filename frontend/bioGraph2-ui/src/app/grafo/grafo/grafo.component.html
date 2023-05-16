@@ -1,14 +1,15 @@
-<div>
-  <p>Selecione qual animal deseja saber o nível trófico:</p>
-  <div>
-    <label>Animal: </label>
-    <select >
-      <option value="" disabled selected>Selecione</option>
-      <option *ngFor="let animal of animais" value="">{{animal.nome}}</option>
-   </select>
-  </div>
-  <button>Selecionar</button>
-</div>
 <div class="container">
-  <img src="assets/cadeiaAlimentar.jpeg">
+  <p>Selecione qual animal deseja saber o nível trófico:</p>
+  <form method="post">
+    <label>Animal: </label>
+    <select (change)="cadeia($event)">
+      <option value="1">grama</option>
+      <option value="2">Gazela</option>
+      <option value="3">Zebra</option>
+      <option value="4">Leão</option>
+      <option value="5">Cheta</option>
+   </select>
+  </form>
+  <P><span>{{ animalSelecionado }}</span></P>
+  <div >
 </div>

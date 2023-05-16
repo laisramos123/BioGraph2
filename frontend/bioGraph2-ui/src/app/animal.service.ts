@@ -1,9 +1,13 @@
 import { Injectable } from '@angular/core';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { Observable } from 'rxjs';
+import { Animal } from './animal';
 
 @Injectable({
   providedIn: 'root'
 })
 export class AnimalService {
+
 
   getAnimal(){
     return [
@@ -30,5 +34,11 @@ export class AnimalService {
     ];
   }
 
-  constructor() { }
+  private baseUrl = "http://localhost:8080/animal-nodes"
+  constructor(private http: HttpClient) { }
+
+  getPosicaoGrafo(): Observable<Animal>{
+    return this.http.get<Animal>(`this.baseUrl`);
+  }
+
 }

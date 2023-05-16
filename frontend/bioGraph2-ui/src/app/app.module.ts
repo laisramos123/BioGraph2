@@ -6,6 +6,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatSelectModule } from '@angular/material/select';
 import { AnimalService } from './animal.service';
+import { FormsModule } from '@angular/forms';
+import { HttpClientModule } from '@angular/common/http';
 
 
 
@@ -18,7 +20,9 @@ import { AnimalService } from './animal.service';
     AppRoutingModule,
     BrowserAnimationsModule,
     MatToolbarModule,
-    MatSelectModule
+    MatSelectModule,
+    FormsModule,
+    HttpClientModule
   ],
   providers: [AnimalService],
   bootstrap: [AppComponent]

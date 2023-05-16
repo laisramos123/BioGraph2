@@ -8,14 +8,6 @@ label {
   margin: 20px;
 }
 
-.container img {
-  margin-left: 300px;
-  max-width:450px;
-  max-height:400px;
-  width: auto;
-  height: auto;
-}
-
 button {
   margin: 20px;
   color: white;
