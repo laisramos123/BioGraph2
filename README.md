@@ -26,7 +26,7 @@ O objetivo principal do projeto é representar uma cadeia alimentar utilizando a
 ## Instalação 
 **Linguagem**: Java, Javascript, Typescript<br>
 **Framework**: (caso exista)<br>
-Para rodar o projeto é necessário que se tenha instalado na máquina as linguagesn Java SDK17, Angular e um editor de texto da sua escolha.
+Para rodar o projeto é necessário que se tenha instalado na máquinao Java SDK17, Angular e um editor de texto da sua escolha.
 
 ## Uso 
 1. Para rodar o servidor, apenas clique em run que irá rodar a aplicação
